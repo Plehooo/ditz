@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lagu Cinta</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, #E3F2FD, #BBDEFB);
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .heart {
+      font-size: 90px;
+      color: red;
+      cursor: pointer;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+      100% { transform: scale(1); }
+    }
+
+    .message {
+      font-size: 20px;
+      color: #0d47a1;
+      margin-top: 10px;
+    }
+
+    .lyric-line {
+      font-size: 24px;
+      font-weight: bold;
+      color: #0d47a1;
+      opacity: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      animation: fadeInTyping 2s ease forwards;
+      white-space: nowrap;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    }
+
+    @keyframes fadeInTyping {
+      0% {
+        opacity: 0;
+        transform: translate(-50%, -50%) scaleX(0);
+      }
+      50% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scaleX(1);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+      }
+    }
+
+    audio {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="startScreen">
+    <div class="heart" onclick="startLagu()">&#10084;</div>
+    <div class="message">Klik hati untuk mulai musik & lirik</div>
+  </div>
+
+  <div id="lyricsContainer"></div>
+
+  <audio id="audio" preload="auto">
+    <source src="https://files.catbox.moe/w1xfob.mp3" type="audio/mpeg">
+    Browser tidak mendukung audio.
+  </audio>
+
+  <script>
+    const lyrics = [
+      { time: 4.0, text: "Kar'na kamu cantik" },              // delay 3 detik
+      { time: 7.0, text: "'Kan kuberi s'galanya apa yang kupunya" }, // delay 4 detik
+      { time: 11.0, text: "Dan hatimu baik" },                 // delay 4 detik
+      { time: 15.0, text: "Sempurnalah duniaku saat kau di sisiku" }, // delay 5 detik
+      { time: 20.5, text: "Bukan kar'na make up di wajahmu" }, // delay 5 detik
+      { time: 25.5, text: "Atau lipstik merah itu (di bibirmu)" }, // delay 4,5 detik
+      { time: 29.0, text: "Lembut hati tutur kata" },          // delay 4 detik
+      { time: 33.0, text: "Terciptalah cinta yang kupuja" }    // delay 4,5 detik
+    ];
+
+    const audio = document.getElementById("audio");
+    const startScreen = document.getElementById("startScreen");
+    const lyricsContainer = document.getElementById("lyricsContainer");
+
+    let currentIndex = 0;
+
+    function startLagu() {
+      startScreen.style.display = "none";
+      audio.play();
+
+      audio.addEventListener('timeupdate', () => {
+        if (currentIndex < lyrics.length && audio.currentTime >= lyrics[currentIndex].time) {
+          lyricsContainer.innerHTML = '';
+          const line = document.createElement('div');
+          line.className = 'lyric-line';
+          line.textContent = lyrics[currentIndex].text;
+          lyricsContainer.appendChild(line);
+          currentIndex++;
+        }
+      });
+    }
+  </script>
+
+</body>
+</html>

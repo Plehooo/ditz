@@ -4,7 +4,7 @@
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI HD
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786754763~hmac=3f4f1718ef8150383e950e4bbf2d798f18884d776fc9d59b63e7247c933b0679
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV
 https://mnctv-linier.rctiplus.id/hdntl=exp=1786765485~acl=%2F*~data=hdntl~hmac=ef697f777737175e7379cecc5c8aff4f7f3732d05b1ee5dc9db6065f24cbd178/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8

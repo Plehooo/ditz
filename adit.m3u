@@ -24,7 +24,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMusli
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
-https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="auto.al.quran.al.kareem" group-title="Islami" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_ALQURANALKAREEM_(1)_2025_03_19_08_18_31.png",Al Quran Al Kareem
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -73,16 +73,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://ayo.maling.pl/Vision/index.mpd?id=6
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(PWFLI8XQqCfDR4kzM8Ni3Rl4C-zjj7EWDDSgChO2hJp6LVZ1W86BkquLyI6G9CPMIfoetPj2Q9aWla3ShshIF0Ry56TahL-xUK-RzkUwoGaYZqsigliwtV9HBbLM8gcb)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1b
+https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=XGr7pTMTVP7lNq-QtB8wz2z8xM9avEmBu3xha549R1c8Ykf7hUV1VtBSGHG03hdOtFI9I6e-BORDtbqWedZM4dINgf-nOjDyj5qFp79MU2fy3b_wOS9L8nxmZadbBJR-&dmTs=977334&dmV1st=5eaf3472-6d2a-4fe9-9036-d63795789ade
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD (V+) (Alt 2)
 https://ayo.maling.pl/Vision/index.mpd?id=7
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="Indonesia Channels",MDTV (Dens)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

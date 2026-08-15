@@ -4,13 +4,13 @@
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI HD
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786754763~hmac=3f4f1718ef8150383e950e4bbf2d798f18884d776fc9d59b63e7247c933b0679
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786806502~hmac=37830753c68b5f71778358effb94d898eb9b47898ed81378a6c973df6b99a33e
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV
-https://mnctv-linier.rctiplus.id/hdntl=exp=1786765485~acl=%2F*~data=hdntl~hmac=ef697f777737175e7379cecc5c8aff4f7f3732d05b1ee5dc9db6065f24cbd178/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786806559~hmac=0c3c8a554aadb1a1a21db31d4104b4346b0bdff852ec91a5de71fc143e2766a4
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",GTV
-https://gtv-linier.rctiplus.id/hdntl=exp=1786802161~acl=%2F*~data=hdntl~hmac=27d657734c7a26590aa931e851e230f409fbf357d5bc0b276a7e16d9796a7e65/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
+https://gtv-linier.rctiplus.id/hdntl=exp=1786824668~acl=%2F*~data=hdntl~hmac=21f8cf067a8c12e5bfb31598b19ae14c54fef4f43bb79c81d3439c6b738ad710/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 group-title="Islami" tvg-id="CitraMuslim.id" tvg-name="Citra Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Citra_Muslim.png/1200px-Logo_Citra_Muslim.png",Citra Muslim
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd

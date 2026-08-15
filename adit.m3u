@@ -389,6 +389,6 @@ https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="auto.disney.xd.east" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9dyYr4MPez1F6C9fUYlMee1554J2E18W7CyRwTTS1A&s=10" group-title="Kids",tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9dyYr4MPez1F6C9fUYlMee1554J2E18W7CyRwTTS1A&s=10,Disney XD EAST
 https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
-##EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Islami",Wesal
+#EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Islami",Wesal
 https://flv.intechmedia.net/live/ch33.m3u8
 

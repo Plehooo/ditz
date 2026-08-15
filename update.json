@@ -1,6 +1,6 @@
 {
- *      "versionCode": 31,
- *      "versionName": "3.0.1",
- *      "apkUrl": "https://github.com/<user>/<repo>/releases/download/v3.0.1/app-release.apk",
- *      "notes": "Perbaikan tampilan channel"
- *    }
+       "versionCode": 31,
+      "versionName": "3.0.1",
+       "apkUrl": "https://github.com/<user>/<repo>/releases/download/v3.0.1/app-release.apk",
+       "notes": "Perbaikan tampilan channel"
+    }

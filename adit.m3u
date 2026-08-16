@@ -99,12 +99,8 @@ https://202.150.161.212:5000/live/channel31/playlist.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png" group-title="Indonesia Channels",iNews HD
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png" group-title="Indonesia Channels",iNews 2
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_1000000=500-3277707030000000.mpd
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Indonesia Channels",Kompas TV HD 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

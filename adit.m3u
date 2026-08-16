@@ -405,3 +405,191 @@ https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Islami",Wesal
 https://flv.intechmedia.net/live/ch33.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="auto.tvp.sports.poland" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",TVP Sports (Poland)
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.win.sports" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.telemundo.us" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",Telemundo (US)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="auto.d.sports" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.tudn.sports" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",Tudn Sports
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.somoy.tv.wc.feed" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",Somoy TV (WC Feed)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="auto.fs2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="WorldCup 2026",FS2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.dd.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png" group-title="WorldCup 2026",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="WorldCup 2026",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 tvg-id="auto.uefa.champions.league.720p" tvg-logo="" group-title="WorldCup 2026",UEFA Champions League (720p)
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ (English)
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ (Spanish)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ Women (English)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="WorldCup 2026",Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ German (720p)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ Italy (720p)
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="WorldCup 2026",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="WorldCup 2026",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="WorldCup 2026",FOX Sports Argentina (720p)
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="WorldCup 2026",TSN The Ocho (1080p)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
+#EXTINF:-1 tvg-id="auto.fifa.toffee.live.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ (Toffee Live BD)
+https://cdn-tt.pages.dev/ch1.m3u8
+
+#EXTINF:-1 tvg-id="auto.fifa.toffee.live.alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ (Toffee Live Alt)
+https://cdn-tt.pages.dev/ch2.m3u8
+
+#EXTINF:-1 tvg-id="auto.fifa.toffee.direct.1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",FIFA+ (Toffee Direct 1080p)
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+
+#EXTINF:-1 tvg-id="auto.tsn.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="WorldCup 2026",TSN Sports
+https://ataide0.sandhost.dpdns.org/tsn.m3u8
+
+#EXTINF:-1 tvg-id="auto.fox.sports.1.alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="WorldCup 2026",FOX Sports 1 (Alt)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.btv.bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bangladesh_Television_Logo.svg/640px-Bangladesh_Television_Logo.svg.png" group-title="WorldCup 2026",BTV (Bangladesh)
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="auto.ptv.sports.pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PTV_Sports_logo.svg/640px-PTV_Sports_logo.svg.png" group-title="WorldCup 2026",PTV Sports (Pakistan)
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="auto.somoy.tv.bangladesh" tvg-logo="" group-title="WorldCup 2026",Somoy TV (Bangladesh)
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="TVRI",TVR Parlemen (720p) [Not 24/7]
+https://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jambi (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Selatan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Tengah (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Lampung (720p)
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI North Sulawesi (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI North Sumatra (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nusa Tenggara Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nusa Tenggara Timur (480p)
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Papua (480p)
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Riau (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI West Papua (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8

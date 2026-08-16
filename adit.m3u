@@ -7,7 +7,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1786806502~hmac=37830753c68b5f71778358effb94d898eb9b47898ed81378a6c973df6b99a33e
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1786806559~hmac=0c3c8a554aadb1a1a21db31d4104b4346b0bdff852ec91a5de71fc143e2766a4
+https://mnctv-linier.rctiplus.id/hdntl=exp=1786900336~acl=%2F*~data=hdntl~hmac=9172cc6296257782b45d6c71edd95cba97ea41b70623d69117d78e02bbe049f6/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",GTV
 https://gtv-linier.rctiplus.id/hdntl=exp=1786887874~acl=%2F*~data=hdntl~hmac=7aa1befb7326d0166a1d4e0d5c0e0a8908e6f445542de24d90ea0442607e7427/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8

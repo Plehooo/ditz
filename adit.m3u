@@ -70,10 +70,10 @@ https://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 https://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
-http://172.110.220.61:80/G1781437373745/wgxpudmv/1806310.ts
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(FXN87JRiDawpTv3fh3MtEvqGIQAole6Sfajfn8blvLRczJJXjvvmyF5-HLj3JUnhwAuj60YQVaK-cgPaqB3I0ZrnPLOhCbiZNPGL92u0xZo63qtzjSuyuoAlB4gD-eSO)/dm/3/x8qckyq/d/live-720.m3u8#cell=lcf-eu-north-1a
+http://srv.sstv.cx:80/xvhtjtuhbv/pg1jgre421/269113
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="Indonesia Channels",MDTV HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

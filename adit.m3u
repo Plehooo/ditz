@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g6zqJ5DAVvSGkXcs4US-vLY_pw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/731/dd0793.png" group-title="Indonesia Channels",GTV HD
-https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",GTV HD
+https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia Channels",RCTI HD
@@ -69,7 +70,7 @@ https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD 
-http://srv.sstv.cx:80/xvhtjtuhbv/pg1jgre421/269113
+https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=K9SxT4o6dMqGRI_ZiqTKCc7wR16lfS98KCIgCSNICzNZqH2qFStLSFKuLXX-be7zrOrQuE2I4gGroNDypuK2BWBBhbE95IWG02il4gWjc7Yby2Qju_Gpsl4fCcRZ77yM
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="Indonesia Channels",MDTV HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

@@ -44,6 +44,8 @@ https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlis
 #EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"}
 https://op-flashcon-digdayahd-1.dens.tv/h/h15/02.m3u8
 
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://files.catbox.moe/fexngv.jpeg" group-title="Indonesia Channels",Vision Prime HD
+http://013tv.com:8080/F18115/068f009e/197958
 
 #EXTINF:-1 tvg-id="auto.tv9.nu" group-title="Islami" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_TV9_2025_03_17_15_01_34.png",TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -53,7 +55,7 @@ https://e.siar.us/live/tvmu.m3u8
 #=================================== Trial IndihomeTV ===================================#
 
 #EXTINF:-1 tvg-id="auto.dmi.tv.2" group-title="Islami" tvg-logo="https://mimipipi22.github.io/logo/religion/dmitv.jpg",DMI TV
-https://cdnbal1.indihometv.com/atm/DASH/tawaftv/master.mpd
+https://tvivu.com/live/tvexpdtzytbv/jgap79hdchhb7f6bt5udrwtnw3gu/19109.m3u8
 
 #EXTINF:-1 tvg-id="auto.rodja.tv" group-title="Islami" tvg-logo="https://mimipipi22.github.io/logo/religion/rodjatv.jpg",RODJA TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

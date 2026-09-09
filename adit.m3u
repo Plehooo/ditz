@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",GTV HD
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
 
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://files.catbox.moe/fexngv.jpeg" group-title="Indonesia Channels",Vision Prime HD
+http://013tv.com:8080/F18115/068f009e/197958
+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia Channels",RCTI HD
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
@@ -64,10 +67,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar HD
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
+http://013tv.com:8080/F18115/068f009e/162503
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD 
 https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=K9SxT4o6dMqGRI_ZiqTKCc7wR16lfS98KCIgCSNICzNZqH2qFStLSFKuLXX-be7zrOrQuE2I4gGroNDypuK2BWBBhbE95IWG02il4gWjc7Yby2Qju_Gpsl4fCcRZ77yM

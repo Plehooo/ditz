@@ -69,10 +69,10 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 http://star44.xyz/live/D5FA0108DDF9/375E961BD969/1247933.ts
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
-http://31.43.191.125:8080/VIP0147177252162799/ckrfhabv757m/34324
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD 
-http://abc.gentv.to:8080/live/holigaonuno/DhK4Lw2VXy/62187.m3u8
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="Indonesia Channels",MDTV HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -116,7 +116,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1788676559115&wowzatokenhash=G0y1C7Xx6KWOwN7NGUPvx1j_apBVeg24sEr9xOBlYeA%3D
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="Indonesia Channels",MOJI TV HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -155,7 +155,7 @@ http://abc.gentv.to:8080/live/holigaonuno/DhK4Lw2VXy/62237.m3u8
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/480p/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia Channels",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg" group-title="Indonesia Channels",MAGNA Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

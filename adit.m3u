@@ -10,7 +10,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV HD
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+https://mnctv-linier.rctiplus.id/hdntl=exp=1790549733~acl=%2F*~data=hdntl~hmac=5ebb1209a7e9ffc9dc7a4dcd6cc2929b1e501d05f7398397c54636b28722dfe8/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Indonesia Channels",Channel Jowo HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

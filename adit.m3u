@@ -12,9 +12,11 @@ https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793604742-3fee89
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793605204-66c7e6fe4e504ac2acb7667498931a76-0-115996b6d37c8f9652e7af1cd7961e7f
 
+#EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/MNCTV_logo.png" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV HD
-https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791295230-8d1fb08f1a7ef49835da48b01339b3f7-0-530aec6d7069984c382fcf88170f203a
+#EXTVLCOPT:http-referrer=https://www.mnctv.com/
+#EXTVLCOPT:http-origin=https://www.mnctv.com
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793608295-fa2ac6fbd711b6a6253496eaf8ccd712-0-5d3f99a854ecf819e510db013c82d059
 
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Indonesia Channels",Channel Jowo HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

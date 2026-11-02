@@ -16,7 +16,7 @@ https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793605204-66c7e6f
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793608295-fa2ac6fbd711b6a6253496eaf8ccd712-0-5d3f99a854ecf819e510db013c82d059
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793608806-6253b53d8ccbc82ecaa9d45c9ee78fde-0-fc35ed189a5333ce3d3fe4adc1aaa3cd
 
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Indonesia Channels",Channel Jowo HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

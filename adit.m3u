@@ -14,8 +14,8 @@ https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793605204-66c7e6f
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/MNCTV_logo.png" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.mnctv.com/
-#EXTVLCOPT:http-origin=https://www.mnctv.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com/
 https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793608295-fa2ac6fbd711b6a6253496eaf8ccd712-0-5d3f99a854ecf819e510db013c82d059
 
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Indonesia Channels",Channel Jowo HD

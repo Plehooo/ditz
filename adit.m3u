@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
 
+#EXTINF:-1 tvg-id="rcti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",GTV HD
-https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793254827-8cf127e65defd0e937b3b156873eb588-0-117a282fc6bd2dd911d7b65bf0be505a
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia Channels",RCTI HD
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793604742-3fee8946320f8d5607871c046ed92126-0-9179fcc29f8107e5732a7bb1715f979e
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV HD

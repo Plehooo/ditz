@@ -4,19 +4,19 @@
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793683385-698cc08cf4cb96181244f6cd650ee577-0-4b1c0cf66b9b39c121a3cc5c0b29b9ca
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793720106-33ee6389c5d43d0a0dc1e2cdef44c874-0-7874e33deeb6d51761a0ffdea203d2a8
 
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/960px-GTV_logo_%282017%29.png" group-title="Indonesia",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://proxy-b.rctiplus.id/live/mweb/gtv/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1793683335-f149111879f3009e19df78585dc03841-0-72109d131e4f696c68e5de604d733025
+https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793720077-9efb2b7f3371333749210b86643bbca9-0-648404be47eacff0983957c295600ae0
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/MNCTV_logo.png" group-title="Indonesia",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793683167-11d0507765ccc8ac054ad01cece80d41-0-b82d504ba04419d228d63b4bc2f6b4d1
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793720018-75d86e56f3de77f1e9a26f1c9d8b0028-0-023a21750475bb8e195ffda210b4ec94
 
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Indonesia Channels",Channel Jowo HD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Plehooo/ditz/refs/heads/main/Adit_EPG.xml"
 
 #EXTINF:-1 tvg-id="rcti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
